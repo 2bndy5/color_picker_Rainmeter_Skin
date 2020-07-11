@@ -17,6 +17,9 @@ color picker
 
 This is the home for developing color picker. A proof-of-concept color picker that I use for all my other Rainmeter skins' settings.
 
+.. image:: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/9d354760-79b7-44eb-9a4c-5fc831468200/d5zb596-f33290e9-b027-4560-a32c-b6e22558fa27.png
+    :target: https://www.deviantart.com/2bndy5/art/RGB-and-Hex-Color-Code-Picker-Version-3-361637466
+
 Rainmeter required
 ##################
 
